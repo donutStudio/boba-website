@@ -1,0 +1,25 @@
+body { 
+    background-color: black;
+}
+
+.white-text {
+    color: white;
+}
+
+.outline { 
+    border: 1px solid; 
+    padding: 12px; 
+    background-color: white;
+    max-width: 640px; 
+}
+
+img { 
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-radius: 4px; 
+}
+
+ul { 
+    font-style: italic; 
+}
